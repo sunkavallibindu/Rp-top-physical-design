@@ -84,3 +84,42 @@ RP Top is an ASIC Physical Design project implemented using Synopsys Design Comp
 - CTS optimization techniques
 - Routing and verification flow
 - Physical Design scripting using TCL
+
+## Project Screenshots
+
+  ### Library Setup
+![Library Setup](screenshots/rp_top_syn_libs.jpeg)
+
+  ### SDC Constraints
+![SDC Constraints](screenshots/rp_top_syn_sdc.jpeg)
+
+  ### MMMC Setup
+![MMMC Setup 1](screenshots/rp_top_mmmc1.jpeg)
+
+![MMMC Setup 2](screenshots/rp_top_mmmc2.jpeg)
+
+  ### Clock Uncertainty
+![Clock Uncertainty](screenshots/rp_top_clk_uncertainity.jpeg)
+
+  ### Floorplanning
+![Floorplan 1](screenshots/rp_top_floorplan1.jpeg)
+
+![Floorplan 2](screenshots/rp_top_floorplan2.jpeg)
+
+  ### Power Planning
+![Power Settings](screenshots/rp_top_power_settings.jpeg)
+
+![Power Grid 1](screenshots/rp_top_pg1.jpeg)
+
+![Power Grid 2](screenshots/rp_top_pg2.jpeg)
+
+  ### Placement
+![Placement 1](screenshots/rp_top_placement1.jpeg)
+
+![Placement 2](screenshots/rp_top_placement2.jpeg)
+
+  ### Clock Tree Synthesis (CTS)
+![CTS](screenshots/rp_top_cts.jpeg)
+
+   ### Routing
+![Routing](screenshots/rp_top_routing.jpeg)
